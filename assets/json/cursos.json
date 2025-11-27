@@ -1,0 +1,76 @@
+{
+  "cursos": [
+    {
+      "nome": "Java",
+      "formador": "Sofia Carvalho",
+      "classificacao": 4,
+      "imagem": "assets/images/java.png"
+    },
+    {
+      "nome": "C",
+      "formador": "Sem Formador",
+      "classificacao": 4,
+      "imagem": "assets/images/c.png"
+    },
+    {
+      "nome": "C#",
+      "formador": "Sofia Carvalho",
+      "classificacao": 4,
+      "imagem": "assets/images/csharp.png"
+    },
+    {
+      "nome": "Sistema de controlo de versões - GIT",
+      "formador": "Sofia Carvalho",
+      "classificacao": 4,
+      "imagem": "assets/images/git.png"
+    },
+    {
+      "nome": "React",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/react.png"
+    },
+    {
+      "nome": "Javascript",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/js.png"
+    },
+    {
+      "nome": "Programação Orientada a Objetos",
+      "formador": "Andreia Coutinho",
+      "classificacao": 4,
+      "imagem": "assets/images/poo.png"
+    },
+    {
+      "nome": "Flutter",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/flutter.png"
+    },
+    {
+      "nome": "HTML",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/html.png"
+    },
+    {
+      "nome": "CSS",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/css.png"
+    },
+    {
+      "nome": "Algoritmia",
+      "formador": "Sem Formador",
+      "classificacao": 4,
+      "imagem": "assets/images/algoritmia.png"
+    },
+    {
+      "nome": "SQL",
+      "formador": "Sem Formador",
+      "classificacao": 4,
+      "imagem": "assets/images/sql.png"
+    }
+  ]
+}

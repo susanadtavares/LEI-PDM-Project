@@ -1,0 +1,346 @@
+{
+  "detalhes": [
+    {
+      "nome": "Java",
+      "formador": "Sofia Carvalho",
+      "classificacao": 4,
+      "imagem": "assets/images/java.png",
+      "descricao": "Curso de Java cuidadosamente estruturado...",
+      "dataInicio": "09/09",
+      "dataFim": "30/09",
+      "vagasOcupadas": 8,
+      "vagasTotais": 10,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Linguagens",
+      "topico": "Java",
+      "objetivos": [
+        "POO",
+        "Estruturas de dados",
+        "GUI",
+        "Boas práticas"
+      ],
+      "publicoAlvo": [
+        "Iniciantes",
+        "Estudantes",
+        "Profissionais"
+      ],
+      "avaliacoes": [
+        {
+          "autor": "Maria Flores",
+          "comentario": "Muito bom.",
+          "data": "12/03/24",
+          "estrelas": 4
+        },
+        {
+          "autor": "José Armando",
+          "comentario": "Útil e prático.",
+          "data": "30/08/24",
+          "estrelas": 5
+        }
+      ]
+    },
+
+    {
+      "nome": "C",
+      "formador": "Sem Formador",
+      "classificacao": 3,
+      "imagem": "assets/images/c.png",
+      "descricao": "Curso introdutório à linguagem C.",
+      "dataInicio": "01/09",
+      "dataFim": "15/09",
+      "vagasOcupadas": 5,
+      "vagasTotais": 10,
+      "modalidade": "Assíncrono",
+      "categoria": "Software",
+      "area": "Software",
+      "topico": "C",
+      "objetivos": [
+        "Tipos de dados",
+        "Funções",
+        "Ponteiros",
+        "Estruturas"
+      ],
+      "publicoAlvo": [
+        "Estudantes",
+        "Formandos técnicos"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "C#",
+      "formador": "Sofia Carvalho",
+      "classificacao": 4,
+      "imagem": "assets/images/csharp.png",
+      "descricao": "Aprende programação com C# para desktop e web.",
+      "dataInicio": "05/09",
+      "dataFim": "25/09",
+      "vagasOcupadas": 9,
+      "vagasTotais": 12,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Linguagens",
+      "topico": "C#",
+      "objetivos": [
+        "WinForms",
+        "ASP.NET",
+        "LINQ",
+        "POO com C#"
+      ],
+      "publicoAlvo": [
+        "Programadores .NET",
+        "Desenvolvedores de aplicações Windows"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "Sistema de controlo de versões - GIT",
+      "formador": "Sofia Carvalho",
+      "classificacao": 4,
+      "imagem": "assets/images/git.png",
+      "descricao": "Aprende a trabalhar com Git e GitHub.",
+      "dataInicio": "10/09",
+      "dataFim": "20/09",
+      "vagasOcupadas": 10,
+      "vagasTotais": 15,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Ferramentas",
+      "topico": "Git",
+      "objetivos": [
+        "Repositórios",
+        "Commits",
+        "Branching",
+        "Merge",
+        "GitHub Flow"
+      ],
+      "publicoAlvo": [
+        "Todos os programadores",
+        "Equipes de desenvolvimento"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "React",
+      "formador": "Diogo Morgado",
+      "classificacao": 5,
+      "imagem": "assets/images/react.png",
+      "descricao": "Aprende a construir interfaces modernas com React.",
+      "dataInicio": "01/10",
+      "dataFim": "31/10",
+      "vagasOcupadas": 10,
+      "vagasTotais": 12,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Linguagens",
+      "topico": "React",
+      "objetivos": [
+        "Componentes",
+        "Hooks",
+        "Context API",
+        "React Router"
+      ],
+      "publicoAlvo": [
+        "Frontend developers",
+        "Estudantes de engenharia informática"
+      ],
+      "avaliacoes": []
+    },
+        
+    {
+      "nome": "Javascript",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/js.png",
+      "descricao": "Curso completo de JavaScript moderno.",
+      "dataInicio": "15/09",
+      "dataFim": "15/10",
+      "vagasOcupadas": 7,
+      "vagasTotais": 12,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Linguagens",
+      "topico": "JavaScript",
+      "objetivos": [
+        "Sintaxe",
+        "Funções",
+        "DOM",
+        "Eventos",
+        "APIs"
+      ],
+      "publicoAlvo": [
+        "Web developers",
+        "Alunos de programação web"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "Programação Orientada a Objetos",
+      "formador": "Andreia Coutinho",
+      "classificacao": 5,
+      "imagem": "assets/images/poo.png",
+      "descricao": "Domina os pilares da OOP em várias linguagens.",
+      "dataInicio": "01/11",
+      "dataFim": "30/11",
+      "vagasOcupadas": 12,
+      "vagasTotais": 15,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Linguagens",
+      "topico": "Programação Orientada a Objetos",
+      "objetivos": [
+        "Encapsulamento",
+        "Herança",
+        "Polimorfismo",
+        "Abstração"
+      ],
+      "publicoAlvo": [
+        "Programadores iniciantes",
+        "Alunos de POO"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "Flutter",
+      "formador": "Diogo Morgado",
+      "classificacao": 5,
+      "imagem": "assets/images/flutter.png",
+      "descricao": "Cria apps nativas para Android e iOS com Flutter.",
+      "dataInicio": "20/09",
+      "dataFim": "20/10",
+      "vagasOcupadas": 10,
+      "vagasTotais": 15,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Linguagens",
+      "topico": "Flutter",
+      "objetivos": [
+        "Widgets",
+        "Layouts",
+        "Navegação",
+        "API REST",
+        "Firebase"
+      ],
+      "publicoAlvo": [
+        "Desenvolvedores móveis",
+        "Estudantes de apps cross-platform"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "HTML",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/html.png",
+      "descricao": "Curso de introdução ao HTML5 para criação de sites.",
+      "dataInicio": "01/09",
+      "dataFim": "15/09",
+      "vagasOcupadas": 6,
+      "vagasTotais": 10,
+      "modalidade": "Assíncrono",
+      "categoria": "Software",
+      "area": "Outros",
+      "topico": "HTML",
+      "objetivos": [
+        "Tags",
+        "Formulários",
+        "Multimédia",
+        "Semântica"
+      ],
+      "publicoAlvo": [
+        "Iniciantes na web",
+        "Designers que queiram aprender HTML"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "CSS",
+      "formador": "Diogo Morgado",
+      "classificacao": 4,
+      "imagem": "assets/images/css.png",
+      "descricao": "Estiliza websites com CSS moderno e responsivo.",
+      "dataInicio": "16/09",
+      "dataFim": "30/09",
+      "vagasOcupadas": 8,
+      "vagasTotais": 10,
+      "modalidade": "Assíncrono",
+      "categoria": "Software",
+      "area": "Outros",
+      "topico": "CSS",
+      "objetivos": [
+        "Selectores",
+        "Box model",
+        "Flexbox",
+        "Grid",
+        "Animações"
+      ],
+      "publicoAlvo": [
+        "Web designers",
+        "Programadores front-end"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "Algoritmia",
+      "formador": "Sem Formador",
+      "classificacao": 4,
+      "imagem": "assets/images/algoritmia.png",
+      "descricao": "Aprende lógica e algoritmos para programação eficiente.",
+      "dataInicio": "01/10",
+      "dataFim": "20/10",
+      "vagasOcupadas": 9,
+      "vagasTotais": 12,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Outros",
+      "topico": "Algoritmia",
+      "objetivos": [
+        "Condicionais",
+        "Ciclos",
+        "Vetores",
+        "Recursividade"
+      ],
+      "publicoAlvo": [
+        "Iniciantes",
+        "Alunos de programação básica"
+      ],
+      "avaliacoes": []
+    },
+
+    {
+      "nome": "SQL",
+      "formador": "Sem Formador",
+      "classificacao": 4,
+      "imagem": "assets/images/sql.png",
+      "descricao": "Consulta e manipula bases de dados com SQL.",
+      "dataInicio": "05/10",
+      "dataFim": "25/10",
+      "vagasOcupadas": 10,
+      "vagasTotais": 15,
+      "modalidade": "Síncrono",
+      "categoria": "Software",
+      "area": "Outros",
+      "topico": "SQL",
+      "objetivos": [
+        "SELECT",
+        "JOIN",
+        "GROUP BY",
+        "Subqueries",
+        "CRUD"
+      ],
+      "publicoAlvo": [
+        "Analistas de dados",
+        "Programadores backend"
+      ],
+      "avaliacoes": []
+    }
+  ]
+}
